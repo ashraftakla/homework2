@@ -6,3 +6,9 @@ body{
 #About{
     color: blue;
 }
+
+.phonenumber {
+    color: white;
+}
+.picture {width:200px;
+height: 200px;}
